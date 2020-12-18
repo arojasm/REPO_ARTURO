@@ -3,5 +3,10 @@
 
 -- autor : Arturo R.
 
+create table cliente (
+nombre 
+apellido
+)
+
 
 
